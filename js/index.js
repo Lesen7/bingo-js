@@ -4,7 +4,7 @@ var rolledNumbers = [];
 var currentNumber;
 
 // Variables de estado.
-status = 2;
+var status = 2;
 
 // Arrays de cartones.
 var playerCard = [];
