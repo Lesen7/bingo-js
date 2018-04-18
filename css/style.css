@@ -40,7 +40,6 @@
 }
 
 .number {
-  font-size: 200%;
 }
 
 .rolledSlot {
@@ -75,7 +74,7 @@
 }
 
 #numberText {
-  font-size: 600%;
+  font-size: 500%;
 }
 
 #roll {
